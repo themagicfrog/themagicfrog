@@ -5,7 +5,7 @@
   <br>
   <pre>
     👾 i'm currently working on making a 2d <a href="https://github.com/themagicfrog/vendingmachine">space platformer</a> with Godot!
-    💻 i'm a member of <a href="https://github.com/hackclub/hackclub">Hack Club</a>!
+    💻 i'm a member of <a href="https://github.com/hackclub/hackclub">Hack Club</a>!!
     ⛰️ i like hiking, art, and writing
     ✨ i want to write more here ;-;
   </pre>
