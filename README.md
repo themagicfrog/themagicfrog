@@ -4,9 +4,9 @@
   </a>
   <br>
   <pre>
-    👾 i'm currently working on running a game dev program for 300+ teens called <a href="https://github.com/themagicfrog/jumpstart">Jumpstart</a> with Godot!
-    💻 i'm a member of <a href="https://github.com/hackclub/hackclub">Hack Club</a>!!
-    ⛰️ i like hiking, art, and writing
+    👾 i'm currently working on running a game dev program for 300+ teens called <a href="https://jumpstart.hackclub.com/">Jumpstart</a>!
+    💻 i'm a member of <a href="https://github.com/hackclub/hackclub">Hack Club</a> and i've helped organize 5+ hackathons!!
+    ⛰️ aside from programming, i enjoy hiking, art, photography and writing
     ✨ i want to write more here ;-;
   </pre>
   <img src="https://github.com/user-attachments/assets/156b45a9-25bd-4808-9fca-456a66d2cd93" height="300" />
