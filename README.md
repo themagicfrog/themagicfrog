@@ -4,12 +4,12 @@
   </a>
   <br>
   <pre>
-    👾 i ran a game dev program for 300+ teens called <a href="https://jumpstart.hackclub.com/">Jumpstart</a>!
+    🌐 see my personal website at <a href="https://estellagu.com/">estellagu.com</a>!
+    👾 i ran a game dev program for 500+ teens called <a href="https://jumpstart.hackclub.com/">Jumpstart</a>!
     💻 i'm a member of <a href="https://github.com/hackclub/hackclub">Hack Club</a> and i've helped organize 5+ hackathons!!
     ⛰️ aside from programming, i enjoy art, photography and writing
   </pre>
   <img src="https://github.com/user-attachments/assets/156b45a9-25bd-4808-9fca-456a66d2cd93" height="300" />
-  <br> <br>
-
+  <br><br>
   <br>
 </div>
